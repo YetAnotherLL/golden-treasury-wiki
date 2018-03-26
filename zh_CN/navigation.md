@@ -1,7 +1,6 @@
 # 《英诗金库》wiki
 
-[卷一（1509-1616）]()
-* [Spring](poem/spring.md)
+[卷一（1509-1616）](poem/volume-1/volume-1-nav.md)
 - - - -
 
 [卷二（1616-1700）]()
