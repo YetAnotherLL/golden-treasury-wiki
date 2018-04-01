@@ -29,8 +29,8 @@
 * That time of year thou may'st in me behold. W. Shakespeare
 * Remembrance. W. Shakespeare
 * [Revolutions](poem/volume-1/revolutions.md). W. Shakespeare
-* Farewell! thou art too dear for my possessing. W. Shakespeare
-* Life without Passion. W. Shakespeare
+* [Farewell! thou art too dear for my possessing](poem/volume-1/farewell-thou-art-too-dear-for-my-possessing.md). W. Shakespeare
+* [The Life without Passion](poem/volume-1/the-life-without-passion.md). W. Shakespeare
 * Lover's Appeal. Sir T. Wyatt
 * Nightingale. R. Barnefield
 * Care-charmer Sleep, son of the sable Night. S. Daniel
