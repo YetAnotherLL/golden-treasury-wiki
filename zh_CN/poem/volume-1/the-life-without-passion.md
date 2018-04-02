@@ -56,4 +56,4 @@ Lilies that fester smell far worse than weeds.
 <sup>2</sup> （原注）*rightly do inherit*, etc.: 'it is right that they should be endowed with supreme beauty.'
 <sup>3</sup> （原注）*from expense*: 'from being expended.'
 <sup>4</sup> （原注）*Though to itself*, etc.: i.e. that which is sel-contained and self-centred will yet give pleasure if it be beautiful. The 'only' is misplaced, as so often in English; it goes with 'to itself.'
-<sup>5</sup> （原注）*with base infection meet*: 'become tainted with decay.''
+<sup>5</sup> （原注）*with base infection meet*: 'become tainted with decay.'
